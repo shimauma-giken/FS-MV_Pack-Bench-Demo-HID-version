@@ -1,0 +1,1 @@
+cmd /K python print-zpl.py
